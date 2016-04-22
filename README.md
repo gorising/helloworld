@@ -1,2 +1,5 @@
-# helloworld
-hello, this my second time here, i am not a coder, but i want to be a coder that why i am here. It is not easy to me. I will keep on my way and try to make it come in true.
+Click the README.md file.
+Click the pencil icon in the upper right corner of the file view to edit.
+In the editor, write a bit about yourself.
+Write a commit message that describes your changes.
+Click Commit changes button.
